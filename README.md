@@ -7,7 +7,7 @@
 
 ## Setup/Installation requirements
 
-* If you want to interact with the finished program, please visit: [Kingdom Coverage](INSERT_URL_HERE_WHEN_UPLOADED).
+* If you want to interact with the finished program, please visit: [Kingdom Coverage](http://18.221.108.122:8080/MVCKingdomCoverage/).
 * In order to edit this project and work with it on your own machine you will need a terminal application such as Terminal or Bash. Since this project has a Gradle and Spring nature, you will need to have the [Spring Tool Suite](https://spring.io/tools) installed. You will also need a database server program such as [MAMP](https://www.mamp.info/en/) and a web server program such as [Apache](https://www.apache.org/).
 * Start by opening the terminal application and typing the command
 ```
